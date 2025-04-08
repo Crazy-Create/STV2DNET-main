@@ -1,4 +1,4 @@
 #  STV2DNET-main
 
-这个工程代码是基于pytorch进行编写的。
-以下是百度网盘预训练权重链接：https://pan.baidu.com/s/1fbUMHkPjKCzt0bkyUn5ACg?pwd=z4us 提取码: z4us 
+The project code is based on pytorch. The following is Baidu web disk pre-training weight link：https://pan.baidu.com/s/1fbUMHkPjKCzt0bkyUn5ACg?pwd=z4us password: z4us 
+The paper is described in detail after publication.
