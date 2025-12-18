@@ -4,7 +4,7 @@
 ![图1](https://github.com/user-attachments/assets/491cb991-273a-4537-b996-4b59d93ff5c8)<br>
 论文链接请参考知网：https://kns.cnki.net/kcms2/article/abstract?v=oWJgMrFo8ufmNc9VHNrm3qsYqQXce_3r8b-zY1bANsKwhXRgSSLYanjedf86jlgcB-RjVIbS39XUTG3GkzgrBfS-1Rhd_szwWYAsn8Y64YrMLoq5b-NYAZigAdT_O6kvmPA2FSOePmZ1b9DWNFTQtM1Y_TgZzJGkwOsu2WOtdU0=&uniplatform=NZKPT<br>
 这个项目工程的代码是基于 pytorch. 它的预训练权重文件在以下百度网盘的链接中：https://pan.baidu.com/s/1fbUMHkPjKCzt0bkyUn5ACg?pwd=z4us password: z4us <br>
-
+训练以及包安装推荐torch版本在2.4以上
 
 首先测试部分：
 
